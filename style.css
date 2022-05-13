@@ -1,4 +1,6 @@
 html, body {
+  background-color: pink;
+  color: black;
   margin: 0;
   padding: 0;
 }
